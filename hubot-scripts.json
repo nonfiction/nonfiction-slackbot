@@ -1,1 +1,1 @@
-["redis-brain.coffee", "shipit.coffee", "airbrake.coffee", "animal.coffee", "ascii.coffee", "aws.coffee", "beerme.coffee", "dnsimple.coffee", "f-ing-weather.coffee", "faceup.coffee"]
+["redis-brain.coffee", "shipit.coffee", "airbrake.coffee", "animal.coffee", "ascii.coffee", "aws.coffee", "beerme.coffee", "dnsimple.coffee", "f-ing-weather.coffee", "faceup.coffee", "github-activity.coffee", "github-status.coffee", "haters.coffee", "heroku-status.coffee", "isup.coffee", "kittens.coffee", "look-of-disapproval.coffee", "meme_captain.coffee", "nickgen.coffee", "pagerduty.coffee"]
